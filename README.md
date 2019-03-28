@@ -6,4 +6,4 @@ python data analysis (currently)
 java, hadoop, apache spark (in future)
 
 
-for mobile users: my repositories are in y 'view code' section
+for mobile users: my repositories are in 'view code' section
