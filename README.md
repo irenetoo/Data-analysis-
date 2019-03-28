@@ -4,3 +4,6 @@ Here I will post my insights on hands on data analysis & tools installation prob
 my focus:
 python data analysis (currently)
 java, hadoop, apache spark (in future)
+
+
+for mobile users: my repositories are in y 'view code' section
