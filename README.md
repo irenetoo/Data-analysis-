@@ -8,4 +8,4 @@ java, hadoop, apache spark (in future)
 
 for mobile users: 
 my repositories are in 'view code' section
-to view ipynb files, scroll to the bottom and click 'desktop version' at the right
+guide to view ipynb files: scroll to the bottom and click 'desktop version' at the right
