@@ -5,4 +5,4 @@ I will be posting my insights on testing out doing data analysis on Jupyter note
 
 IreneTwo
 Bachelor of Education (Major in Math)
-Unitar International Uni
+Unitar International University
