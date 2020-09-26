@@ -1,5 +1,5 @@
 # Data-analysis-IreneToo
-Here I will post my insights on data analysis journey.
+Here I will post my insights on learning data analysis journey.
 
 What's in here:
 
