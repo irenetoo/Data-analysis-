@@ -1,2 +1,9 @@
 # Data-analysis-IreneToo
-Here I will post my insights on hands on data analysis & tools installation problem and solution guide
+Here I will post my insights on data analysis journey.
+
+What's in here:
+
+- hands on data analysis and visualisation practices
+- tools installation problem and solution guides
+
+[created on : Feb 23, 2019]
