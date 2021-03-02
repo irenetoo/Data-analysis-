@@ -1,6 +1,6 @@
 # Data-analysis-IreneToo
 
-Here are my journey insights on learning data analysis before enrolling into University of Malaya.
+Here are my journey insights on learning data analysis.
 
 What's in here:
 
