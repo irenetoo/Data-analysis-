@@ -1,6 +1,6 @@
 # Data-analysis-IreneToo
 
-Here are my journey insights on learning data analysis.
+Journey on learning data analysis.
 
 What's in here:
 
